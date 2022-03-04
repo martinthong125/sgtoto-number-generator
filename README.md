@@ -1,5 +1,5 @@
 # sgtoto-number-generator
-Just for fun!
+Just for fun and learning only!
 
 # Disclaimer: This tool is used to teach probability and why you should not contribute your hard earned money to Singapore Pools. Users should not use this tool for gambling of any form.
 Features:
